@@ -2,7 +2,7 @@
 /**
  * Develop without admin bar
  *
- * @package     DevelopWithputAdminBar
+ * @package     DevelopWithoutAdminBar
  * @author      Codice Ovvio
  * @copyright   2016 Codice Ovvio
  * @license     GPL-2.0+
