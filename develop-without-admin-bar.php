@@ -48,4 +48,3 @@ function remove_admin_bar_when_developing() {
 add_action( 'after_setup_theme', 'remove_admin_bar_when_developing' );
 
 ?>
-
